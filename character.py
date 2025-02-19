@@ -1,8 +1,8 @@
 import turtle as t
 
 t.screensize(800, 2000)
-t.bgcolor("black")
-t.color("red", "grey")
+t.bgcolor("cyan")
+t.color("darkred", "cornsilk")
 t.pensize(4)
 t.tracer(1, 9)
 
@@ -53,3 +53,4 @@ for letter in name:
     break
 
 t.mainloop()
+
